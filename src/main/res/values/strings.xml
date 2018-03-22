@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HairDew</string>
+    //Strings for activity_login
+    <string name="header">Go Back to Nature, Back to Natural</string>
+    <string name="app_info_section_1">When caring for your precious coils, you deserve the best.</string>
+    <string name="buttonCreate">Create</string>
+    <string name="buttonExplore">Explore</string>
+    <string name="buttonFAQ">FAQ</string>
+    //Strings for activity_create
+    <string name="headerCreate">We\'re All Mad Here</string>
+    <string name="chooseBase">Choose Your Base</string>
+    <string name="chooseOil">Choose Your Oil</string>
+    <string name="chooseScent">Choose Your Scent</string>
+    <string name="chooseBaseMoreInfo">"This is the nourishing foundation for your creation."</string>
+</resources>
+
